@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Users/artiomgesp/Documents/hackation/website/frontend/.nuxt/nuxt-booster/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/Users/artiomgesp/Documents/hackation/website/frontend/.nuxt/nuxt-booster/entry.js"
+  }
+}
